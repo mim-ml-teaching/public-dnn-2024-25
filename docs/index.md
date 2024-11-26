@@ -35,7 +35,7 @@ Lecture plan:
     * [visualization-by-occlusion](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-6-occlusion-student-version.ipynb)
 * Lab7:
     * [residual-block](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-7-ResidualBlock-in-Pytorch-student-version.ipynb)
-    * [unet](https://colab.research.google.com/githubmim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
+    * [unet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
 
 
 # Homeworks
