@@ -36,7 +36,8 @@ Lecture plan:
 * Lab7:
     * [residual-block](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-7-ResidualBlock-in-Pytorch-student-version.ipynb)
     * [unet](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-7-UNet-in-Pytorch-student-version.ipynb)
-
+* Lab8:
+    * [CGAN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-8-GAN-student-version.ipynb)
 
 # Homeworks
 * [Homework 1](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw1-proxprop-student.ipynb)
