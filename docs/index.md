@@ -43,6 +43,8 @@ Lecture plan:
 * Lab10:
     * [Transformer](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-10-Transformer-student-version.ipynb)
     * [RNN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-10-RNN-student-version.ipynb)
+* Lab11:
+    * [DQN](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-Lab-11-DQN-student-version.ipynb)
 
 # Homeworks
 * [Homework 1](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw1-proxprop-student.ipynb)
