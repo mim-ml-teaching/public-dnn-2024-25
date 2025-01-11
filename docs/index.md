@@ -50,6 +50,9 @@ Lecture plan:
 * [Homework 1](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw1-proxprop-student.ipynb)
 * [Homework 2](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw2-textureVsShape-student.ipynb)
 * [Homework 3](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw3-differential-student.ipynb)
+* Homework 4 **PRE-RELEASE** (Official release at 14th of January)
+    + [Notebook](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw4-ppo-rnd-minihack-student.ipynb)
+    + [Tester - student version](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw4-rl_hw_tester_student.ipynb)
 
 # Old exams
 
