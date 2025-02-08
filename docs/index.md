@@ -62,4 +62,7 @@ Lecture plan:
 
 # Old exams
 
-Both coding tasks and tests from editions 2020/21-2023/24 are [here](https://github.com/mim-ml-teaching/public-dnn-2024-25/tree/main/docs/exams-tasks)
+* [2020-21](https://github.com/mim-ml-teaching/public-dnn-2024-25/tree/main/docs/exam-2020-21)
+* [2021-22](https://github.com/mim-ml-teaching/public-dnn-2024-25/tree/main/docs/exam-2021-22)
+* [2022-23](https://github.com/mim-ml-teaching/public-dnn-2024-25/tree/main/docs/exam-2022-23)
+* [2023-24](https://github.com/mim-ml-teaching/public-dnn-2024-25/tree/main/docs/exam-2023-24)
