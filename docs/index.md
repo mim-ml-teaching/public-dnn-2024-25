@@ -56,6 +56,10 @@ Lecture plan:
     + [Notebook](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw4-ppo-rnd-minihack-student.ipynb)
     + [Tester - student version](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/hw4-rl_hw_tester_student.ipynb)
 
+# Exam
+* [Task 1](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/task_1_student.ipynb)
+* [Task 2](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN_Exam_Task_Linear_Probe_Student.ipynb)
+
 # Old exams
 
 Both coding tasks and tests from editions 2020/21-2023/24 are [here](https://github.com/mim-ml-teaching/public-dnn-2024-25/tree/main/docs/exams-tasks)
