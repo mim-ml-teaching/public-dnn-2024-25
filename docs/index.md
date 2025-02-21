@@ -60,6 +60,9 @@ Lecture plan:
 * [Task 1](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/task_1_student.ipynb)
 * [Task 2](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN_Exam_Task_Linear_Probe_Student.ipynb)
 
+# Exam retake
+* [The only task](https://colab.research.google.com/github/mim-ml-teaching/public-dnn-2024-25/blob/master/docs/DNN-exam-retake-student.ipynb)
+
 # Old exams
 
 * [2020-21](https://github.com/mim-ml-teaching/public-dnn-2024-25/tree/main/docs/exam-2020-21)
